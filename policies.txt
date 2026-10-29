@@ -1,0 +1,65 @@
+1. Hiring and onboarding
+Recruitment and selection: Defines how vacancies are approved, advertised, screened, interviewed, and offered. It covers who approves headcount, the interview stages, and how offers are made, so hiring is consistent and merit-based.
+Equal opportunity and non-discrimination: Commits the company to hiring and treating people fairly regardless of gender, religion, caste, disability, age, or marital status. It usually includes how discrimination complaints are handled.
+Background verification: Specifies the checks done before or after joining (education, past employment, criminal record, address) and what happens if a candidate fails or hides information. It also requires candidate consent.
+Probation and confirmation: Sets the trial period (typically 3 to 6 months), what is evaluated, how it can be extended, and how confirmation is communicated. It also states notice terms during probation.
+Onboarding and induction: Covers the joining formalities (documents, ID, IT access, assets) and the orientation program that introduces the company, team, policies, and role expectations.
+2. Working hours and attendance
+Work hours, shifts, and overtime: States standard working hours, shift timings, break rules, weekly offs, and how overtime is approved and paid or compensated, in line with labor laws.
+Attendance and punctuality: Explains how attendance is recorded (biometric, app, timesheet), grace periods for late arrival, and consequences of repeated lateness or unauthorized absence.
+Remote and hybrid work: Defines who is eligible to work remotely, how many days, expected availability, equipment and internet support, and data security requirements at home.
+Flexible working arrangements: Allows adjusted start/end times, compressed weeks, or part-time options, usually requiring manager approval and business feasibility.
+3. Leave and time off
+Casual, sick, and earned leave: Sets the annual entitlement for each type, how it accrues, whether it carries forward, and how to apply. Sick leave often needs a medical certificate beyond 2 to 3 days.
+Maternity, paternity, and adoption leave: Maternity leave in India is 26 weeks for the first two children under the Maternity Benefit Act. Paternity and adoption leave are often company-specific. The policy also covers eligibility and return-to-work support.
+Bereavement and compassionate leave: Paid time off on the death or serious illness of a close family member, with a defined list of relatives covered.
+Public and optional holidays: Publishes the annual holiday calendar and a set number of optional or floating holidays employees can choose for regional or religious occasions.
+Leave without pay and sabbatical: Allows unpaid or long breaks for study, health, or personal reasons, with rules on eligibility, maximum duration, and job protection.
+Leave encashment: Explains whether unused leave can be paid out (annually or at exit), the maximum days, and how the amount is calculated.
+4. Compensation and benefits
+Salary structure and pay cycle: Breaks pay into components (basic, HRA, allowances, variable) and states the payment date, deductions (tax, PF), and how pay slips are issued.
+Bonuses and incentives: Describes performance bonuses, sales incentives, joining or retention bonuses, who qualifies, how they are calculated, and clawback conditions.
+Provident fund, gratuity, ESI: Statutory benefits in India. PF is a retirement savings scheme with employee and employer contributions. Gratuity is a lump sum after 5 years of service. ESI gives medical and cash benefits to lower-wage employees.
+Health and life insurance: Details group medical and term cover, sum insured, dependents covered, claim process, and whether it continues after exit.
+Allowances: Lists extras such as travel, meals, phone, internet, and relocation, with eligibility and limits.
+Expense reimbursement: Explains what business expenses can be claimed, required receipts, approval limits, and submission deadlines.
+5. Performance and growth
+Performance appraisal and review cycles: Sets the review frequency (annual, half-yearly, quarterly), rating scale, goal-setting method, and how ratings feed into pay and promotion.
+Promotions and increments: States the criteria, timing, and approval process for raises and level changes, so decisions are transparent.
+Training and development: Covers learning budgets, mandatory training, certifications, tuition support, and bonds or repayment if an employee leaves soon after sponsored training.
+Career progression and succession planning: Maps career paths and identifies and grooms people for key roles so the company isn’t caught short when someone leaves.
+6. Code of conduct and ethics
+Employee code of conduct: The overall behavior standard: integrity, respect, honesty, professionalism, and compliance with law.
+Conflict of interest: Requires employees to disclose situations where personal interests (side businesses, family relationships with vendors) could affect their judgment.
+Confidentiality and data protection: Protects trade secrets, client data, and personal data, setting rules for sharing, storing, and handling information, often tied to an NDA and data privacy law.
+Gifts and hospitality: Limits accepting or giving gifts and entertainment to prevent bribery or undue influence, and requires reporting above a certain value.
+Dress code: Sets expectations for attire (formal, business casual, casual days), including any safety or client-facing requirements.
+Use of company assets, internet, and email: Defines acceptable use of laptops, phones, networks, and accounts, and states that the company may monitor usage on its systems.
+Social media policy: Guides what employees may post about the company, colleagues, or clients, and prohibits sharing confidential information or speaking on behalf of the company without authorization.
+Whistleblower policy: Provides a safe, confidential channel to report fraud, misconduct, or legal violations, with protection against retaliation.
+7. Workplace safety and respect
+Prevention of sexual harassment (POSH): Mandatory in India for workplaces with 10 or more employees. It defines harassment, requires an Internal Committee, and sets the complaint, inquiry, and action process.
+Anti-bullying and anti-harassment: Covers non-sexual harassment such as intimidation, humiliation, and discrimination, with a reporting and investigation process.
+Health and safety and emergency procedures: Covers hazard prevention, first aid, fire drills, evacuation plans, incident reporting, and ergonomic or industrial safety rules.
+Substance abuse: Prohibits working under the influence of alcohol or drugs and bringing them to work, and may include testing and support or rehabilitation.
+Workplace violence: Prohibits threats, physical aggression, and weapons, and sets out how incidents are reported and handled.
+8. Discipline and grievances
+Disciplinary procedure: Sets the steps from verbal warning to written warning, show-cause notice, inquiry, and final action, ensuring natural justice (the right to be heard).
+Grievance redressal: Gives employees a structured way to raise complaints about managers, pay, or conditions, with escalation levels and response timelines.
+Misconduct definitions and consequences: Lists what counts as minor or serious misconduct (fraud, absenteeism, insubordination, data theft) and the penalties for each.
+Warning and termination procedures: Explains how performance or conduct issues lead to termination, including notice, documentation, and approvals, to reduce legal risk.
+9. Separation
+Resignation and notice period: States how to resign, the notice length (commonly 1 to 3 months), buyout or waiver options, and handover duties.
+Termination and retrenchment: Covers company-initiated exits, whether for cause, performance, or layoffs, including notice, severance, and legal compliance.
+Full and final settlement: Explains how final dues (salary, leave encashment, bonus, gratuity, less recoveries) are calculated and when they are paid, typically within 30 to 45 days.
+Exit interview and clearance: Describes the feedback conversation and the no-dues process: returning assets, revoking access, and clearing departments.
+Experience and relieving letters: States when and how these documents are issued, usually after clearance and settlement.
+Non-compete and non-solicitation: Restricts joining competitors or poaching employees or clients after exit. Enforceability varies, and in India post-employment non-competes are generally hard to enforce.
+10. Other common policies
+Employee referral program: Rewards employees for referring candidates who are hired and stay for a set period, with rules on bonus amount and eligibility.
+Travel policy: Defines who can travel, class of travel, hotel and per-diem limits, booking process, and advance and settlement rules.
+Transfer and relocation: Covers moving employees between locations, including notice, relocation allowance, temporary housing, and refusal consequences.
+Employee wellness and mental health (EAP): Offers counseling, health checkups, wellness programs, and confidential support through an Employee Assistance Program.
+Diversity, equity, and inclusion: Sets goals and practices for an inclusive workplace, such as fair hiring, accessibility, and employee resource groups.
+Moonlighting and outside employment: States whether employees may take second jobs or freelance work, usually requiring disclosure and approval and banning conflicts with the employer’s business.
+Intellectual property ownership: Clarifies that work created in the course of employment (code, designs, content, inventions) belongs to the company
